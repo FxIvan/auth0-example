@@ -1,0 +1,12 @@
+.container-login {
+  background-color: #e7e7e7ea;
+  border-radius: 20px;
+  padding: 4rem;
+  -webkit-box-shadow: 20px 18px 76px 8px rgba(0, 0, 0, 0.47);
+  -moz-box-shadow: 20px 18px 76px 8px rgba(0, 0, 0, 0.47);
+  box-shadow: 20px 18px 76px 8px rgba(0, 0, 0, 0.47);
+}
+
+.login-withgoogle .line-withgoogle {
+  border: 1px solid #f3f2f2;
+}
